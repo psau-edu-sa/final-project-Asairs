@@ -7,6 +7,7 @@ In general and clear, our project includes identifying requirements, designing s
 
 # Topics mentioned in the project:
 •	Introduction to Google Maps
+
 •	Problems solved by the application
 •	Problems that the app solves
 •	Background on Google Map Company
